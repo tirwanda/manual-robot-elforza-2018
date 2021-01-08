@@ -1,0 +1,17 @@
+bismillah_rev2\tasks.o: D:/Psychorobotic/Program/STM32/SOFTWARE/STM32Cube_FW_F4_V1.13.0/STM32Cube_FW_F4_V1.17.0/Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+bismillah_rev2\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+bismillah_rev2\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+bismillah_rev2\tasks.o: D:/Psychorobotic/Program/STM32/SOFTWARE/STM32Cube_FW_F4_V1.13.0/STM32Cube_FW_F4_V1.17.0/Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+bismillah_rev2\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+bismillah_rev2\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+bismillah_rev2\tasks.o: ../Inc/FreeRTOSConfig.h
+bismillah_rev2\tasks.o: ../Inc/main.h
+bismillah_rev2\tasks.o: D:/Psychorobotic/Program/STM32/SOFTWARE/STM32Cube_FW_F4_V1.13.0/STM32Cube_FW_F4_V1.17.0/Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+bismillah_rev2\tasks.o: D:/Psychorobotic/Program/STM32/SOFTWARE/STM32Cube_FW_F4_V1.13.0/STM32Cube_FW_F4_V1.17.0/Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+bismillah_rev2\tasks.o: D:/Psychorobotic/Program/STM32/SOFTWARE/STM32Cube_FW_F4_V1.13.0/STM32Cube_FW_F4_V1.17.0/Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+bismillah_rev2\tasks.o: D:/Psychorobotic/Program/STM32/SOFTWARE/STM32Cube_FW_F4_V1.13.0/STM32Cube_FW_F4_V1.17.0/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+bismillah_rev2\tasks.o: D:/Psychorobotic/Program/STM32/SOFTWARE/STM32Cube_FW_F4_V1.13.0/STM32Cube_FW_F4_V1.17.0/Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+bismillah_rev2\tasks.o: D:/Psychorobotic/Program/STM32/SOFTWARE/STM32Cube_FW_F4_V1.13.0/STM32Cube_FW_F4_V1.17.0/Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+bismillah_rev2\tasks.o: D:/Psychorobotic/Program/STM32/SOFTWARE/STM32Cube_FW_F4_V1.13.0/STM32Cube_FW_F4_V1.17.0/Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+bismillah_rev2\tasks.o: D:/Psychorobotic/Program/STM32/SOFTWARE/STM32Cube_FW_F4_V1.13.0/STM32Cube_FW_F4_V1.17.0/Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+bismillah_rev2\tasks.o: D:/Psychorobotic/Program/STM32/SOFTWARE/STM32Cube_FW_F4_V1.13.0/STM32Cube_FW_F4_V1.17.0/Middlewares/Third_Party/FreeRTOS/Source/include/StackMacros.h
